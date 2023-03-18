@@ -5,4 +5,4 @@
 * rsrc -manifest wftool.manifest -ico WF.ico -o wftool.syso
 * go build -ldflags "-H windowsgui"
 
-[Windows 執行檔 點我下載](https://github.com/MeowXiaoXiang/WarframePairBlockTool/releases/download/v2.1.2/WarframePairBlockTool.exe "下載 release v2.1.2 版本")
+[Windows 執行檔 點我下載](https://github.com/MeowXiaoXiang/WarframePairBlockTool_Go/releases/download/v1.0/wfpairbolcktool.exe "下載 release v2.1.2 版本")
